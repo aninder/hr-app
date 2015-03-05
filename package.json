@@ -1,0 +1,19 @@
+{
+  "name": "hr-app",
+  "version": "1.0.0",
+  "description": "full stack javascript HR web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+  ],
+  "author": "unknown",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.1.0"
+  }
+}
